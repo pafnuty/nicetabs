@@ -22,6 +22,11 @@ ul.tabs {
 	color: #ecf0f1;
 	background: #c0392b;
 	text-shadow: 0 1px 1px rgba(0,0,0,.5);
+	-webkit-transition: all ease .3s;
+	-moz-transition: all ease .3s;
+	-ms-transition: all ease .3s;
+	-o-transition: all ease .3s;
+	transition: all ease .3s;
 }
 .tabs li.current {
 	color: #ecf0f1;
