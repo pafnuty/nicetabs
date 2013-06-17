@@ -13,7 +13,7 @@ b{color: #2980b9;}
 a{color: #2980b9;}
 a:hover{text-decoration: none;color: #c0392b;}
 .btn, a.btn{line-height: 32px;font-size: 100%;margin: 0;vertical-align: baseline;*vertical-align: middle;cursor: pointer;*overflow: visible;background: #3498db;color: #ecf0f1;text-shadow: 0 1px 0 rgba(0, 0, 0, 0.2);border: 0;-webkit-border-radius: 3px;-moz-border-radius: 3px;border-radius: 3px;padding: 0 15px;display: inline-block; text-decoration: none; border-bottom: solid 3px #2980b9;}
-.btn:hover, a.btn:hover{background: #e74c3c; border-bottom-color: #c0392b}
+.btn:hover, a.btn:hover{background: #e74c3c; border-bottom-color: #c0392b;-webkit-transition: all ease .3s;-moz-transition: all ease .3s;-ms-transition: all ease .3s;-o-transition: all ease .3s;transition: all ease .3s;}
 article,
 .gray{color: #95a5a6;}
 .green{color: #16a085;}
